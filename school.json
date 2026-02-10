@@ -1,10 +1,4 @@
-{
-  "colegio": [
-    {
-      "colegio": "San Javier",
-      "code": "ARSZ934A"
-    },
-    {
-      "colegio": "Oller",
-      "code": "aRSz123a"
-    }]}
+{"colegio":[
+  {"colegio": "San Javier","code": "ARSZ934A"},
+  {"colegio": "Oller","code": "aRSz123a"}
+]}
