@@ -10,7 +10,6 @@
     { "palabra": "Small", "definicion": "Little in size.", "tematica": "", "nivel": "1 Primaria", "fecha": "9th_feb", "curso": "25/26" },
     { "palabra": "Quiet", "definicion": "With no noise.", "tematica": "", "nivel": "1 Primaria", "fecha": "9th_feb", "curso": "25/26" },
     { "palabra": "Noisy", "definicion": "With a lot of noise.", "tematica": "", "nivel": "1 Primaria", "fecha": "9th_feb", "curso": "25/26" },
-
     { "palabra": "Beach", "definicion": "A place with sand and sea.", "tematica": "", "nivel": "1 Primaria", "fecha": "2nd_feb", "curso": "25/26" },
     { "palabra": "City", "definicion": "A big town with many people.", "tematica": "", "nivel": "1 Primaria", "fecha": "2nd_feb", "curso": "25/26" },
     { "palabra": "Island", "definicion": "Land with water all around.", "tematica": "", "nivel": "1 Primaria", "fecha": "2nd_feb", "curso": "25/26" },
@@ -21,7 +20,6 @@
     { "palabra": "Mountains", "definicion": "Very high land.", "tematica": "", "nivel": "1 Primaria", "fecha": "2nd_feb", "curso": "25/26" },
     { "palabra": "North Pole", "definicion": "Very cold place in the north.", "tematica": "", "nivel": "1 Primaria", "fecha": "2nd_feb", "curso": "25/26" },
     { "palabra": "Desert", "definicion": "Hot place with sand.", "tematica": "", "nivel": "1 Primaria", "fecha": "2nd_feb", "curso": "25/26" },
-
     { "palabra": "Monday", "definicion": "The first school day of the week.", "tematica": "", "nivel": "1 Primaria", "fecha": "26th_jan", "curso": "25/26" },
     { "palabra": "Tuesday", "definicion": "The second day of the week.", "tematica": "", "nivel": "1 Primaria", "fecha": "26th_jan", "curso": "25/26" },
     { "palabra": "Wednesday", "definicion": "The middle day of the week.", "tematica": "", "nivel": "1 Primaria", "fecha": "26th_jan", "curso": "25/26" },
@@ -32,7 +30,6 @@
     { "palabra": "Winter", "definicion": "The cold season.", "tematica": "", "nivel": "1 Primaria", "fecha": "26th_jan", "curso": "25/26" },
     { "palabra": "Spring", "definicion": "Season with flowers.", "tematica": "", "nivel": "1 Primaria", "fecha": "26th_jan", "curso": "25/26" },
     { "palabra": "Autumn", "definicion": "Season with falling leaves.", "tematica": "", "nivel": "1 Primaria", "fecha": "26th_jan", "curso": "25/26" },
-
     { "palabra": "Basketball", "definicion": "A sport with a ball and basket.", "tematica": "", "nivel": "1 Primaria", "fecha": "19th_jan", "curso": "25/26" },
     { "palabra": "Swimming", "definicion": "Moving in water.", "tematica": "", "nivel": "1 Primaria", "fecha": "19th_jan", "curso": "25/26" },
     { "palabra": "Football", "definicion": "A sport played with feet and a ball.", "tematica": "", "nivel": "1 Primaria", "fecha": "19th_jan", "curso": "25/26" },
@@ -43,7 +40,6 @@
     { "palabra": "Skiing", "definicion": "Sliding on snow.", "tematica": "", "nivel": "1 Primaria", "fecha": "19th_jan", "curso": "25/26" },
     { "palabra": "Running", "definicion": "Moving fast with your legs.", "tematica": "", "nivel": "1 Primaria", "fecha": "19th_jan", "curso": "25/26" },
     { "palabra": "Volleyball", "definicion": "A sport with a net and ball.", "tematica": "", "nivel": "1 Primaria", "fecha": "19th_jan", "curso": "25/26" },
-
     { "palabra": "Teddy Bear", "definicion": "A soft toy bear.", "tematica": "", "nivel": "1 Primaria", "fecha": "12th_jan", "curso": "25/26" },
     { "palabra": "Doll", "definicion": "A toy that looks like a person.", "tematica": "", "nivel": "1 Primaria", "fecha": "12th_jan", "curso": "25/26" },
     { "palabra": "Plane", "definicion": "A vehicle that flies.", "tematica": "", "nivel": "1 Primaria", "fecha": "12th_jan", "curso": "25/26" },
