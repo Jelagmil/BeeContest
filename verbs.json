@@ -15,6 +15,70 @@
       "tipo": "Irregular",
       "nivel": "123_primaria",
       "definicion": "ir"
+    },
+        {
+      "infinitive": "be",
+      "past_simple": "was/were",
+      "past_participle": "been",
+      "tipo": "Irregular",
+      "nivel": "eso",
+      "definicion": "ser o estar"
+    },
+    {
+      "infinitive": "go",
+      "past_simple": "went",
+      "past_participle": "gone",
+      "tipo": "Irregular",
+      "nivel": "123_primaria",
+      "definicion": "ir"
+    },
+        {
+      "infinitive": "be",
+      "past_simple": "was/were",
+      "past_participle": "been",
+      "tipo": "Irregular",
+      "nivel": "eso",
+      "definicion": "ser o estar"
+    },
+    {
+      "infinitive": "go",
+      "past_simple": "went",
+      "past_participle": "gone",
+      "tipo": "Irregular",
+      "nivel": "123_primaria",
+      "definicion": "ir"
+    },
+        {
+      "infinitive": "be",
+      "past_simple": "was/were",
+      "past_participle": "been",
+      "tipo": "Irregular",
+      "nivel": "eso",
+      "definicion": "ser o estar"
+    },
+    {
+      "infinitive": "go",
+      "past_simple": "went",
+      "past_participle": "gone",
+      "tipo": "Irregular",
+      "nivel": "123_primaria",
+      "definicion": "ir"
+    },
+        {
+      "infinitive": "be",
+      "past_simple": "was/were",
+      "past_participle": "been",
+      "tipo": "Irregular",
+      "nivel": "eso",
+      "definicion": "ser o estar"
+    },
+    {
+      "infinitive": "go",
+      "past_simple": "went",
+      "past_participle": "gone",
+      "tipo": "Irregular",
+      "nivel": "123_primaria",
+      "definicion": "ir"
     }
   ]
 }
