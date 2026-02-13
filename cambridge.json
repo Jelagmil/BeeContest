@@ -1,0 +1,2111 @@
+{
+  "palabras": [
+    {
+      "palabra": "actor",
+      "definicion": "a person who performs in plays or films",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "adventure",
+      "definicion": "an exciting or unusual experience",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "air",
+      "definicion": "the mixture of gases that we breathe",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "airport",
+      "definicion": "a place where aircraft take off and land",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "ambulance",
+      "definicion": "a vehicle for taking sick people to hospital",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "April",
+      "definicion": "the fourth month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "art",
+      "definicion": "creative activities like painting and drawing",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "artist",
+      "definicion": "a person who creates art",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "astronaut",
+      "definicion": "a person who travels in space",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "August",
+      "definicion": "the eighth month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "autumn",
+      "definicion": "the season between summer and winter",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "backpack",
+      "definicion": "a bag carried on your back",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "bandage",
+      "definicion": "a strip of material for covering wounds",
+      "tematica": "Health",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "bank",
+      "definicion": "a place where money is kept",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "beetle",
+      "definicion": "an insect with hard wing covers",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "belt",
+      "definicion": "a strap worn around the waist",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Betty",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "bicycle",
+      "definicion": "a vehicle with two wheels that you pedal",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "bin",
+      "definicion": "a container for rubbish",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "biscuit",
+      "definicion": "a small crisp sweet cake",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "bit",
+      "definicion": "a small piece or amount",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "bracelet",
+      "definicion": "jewelry worn around the wrist",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "bridge",
+      "definicion": "a structure built over a river or road",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "brush",
+      "definicion": "a tool with bristles for cleaning or painting",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "business",
+      "definicion": "work related to buying and selling",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "businessman",
+      "definicion": "a man who works in business",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "businesswoman",
+      "definicion": "a woman who works in business",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "butter",
+      "definicion": "a yellow food made from cream",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "butterfly",
+      "definicion": "an insect with large colored wings",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "calendar",
+      "definicion": "a chart showing days, weeks, and months",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "camel",
+      "definicion": "a desert animal with one or two humps",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "card",
+      "definicion": "a piece of thick paper with a message or design",
+      "tematica": "Materials",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "cartoon",
+      "definicion": "an animated film or drawing",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "castle",
+      "definicion": "a large building with high walls",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "cave",
+      "definicion": "a large hole in the side of a cliff or underground",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "century",
+      "definicion": "a period of one hundred years",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "cereal",
+      "definicion": "a breakfast food made from grain",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "channel",
+      "definicion": "a television or radio station",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "chemist",
+      "definicion": "a shop that sells medicines",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "chess",
+      "definicion": "a board game for two players",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "chopsticks",
+      "definicion": "thin sticks used for eating Asian food",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "club",
+      "definicion": "a group of people with a shared interest",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "college",
+      "definicion": "a place of higher education",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "comb",
+      "definicion": "a tool for arranging hair",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "competition",
+      "definicion": "an event where people try to win",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "concert",
+      "definicion": "a musical performance",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "conversation",
+      "definicion": "a talk between people",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "cooker",
+      "definicion": "a device for cooking food",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "cookie",
+      "definicion": "a small crisp sweet cake",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "corner",
+      "definicion": "the place where two sides meet",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "costume",
+      "definicion": "special clothes worn for a performance or party",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "creature",
+      "definicion": "a living thing, especially an animal",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "crown",
+      "definicion": "a circular ornament worn on the head by royalty",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "cushion",
+      "definicion": "a soft bag filled with material for sitting on",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "date",
+      "definicion": "a particular day of a month or year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "David",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "December",
+      "definicion": "the twelfth month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "desert",
+      "definicion": "a large sandy area with little water",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "design",
+      "definicion": "a plan or drawing showing how something will be made",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "designer",
+      "definicion": "a person who designs things",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "diary",
+      "definicion": "a book for writing daily events",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "dictionary",
+      "definicion": "a book that lists words and their meanings",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "dinosaur",
+      "definicion": "a large reptile that lived millions of years ago",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "drum",
+      "definicion": "a musical instrument you hit with sticks",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "eagle",
+      "definicion": "a large bird of prey",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Earth",
+      "definicion": "the planet we live on",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "east",
+      "definicion": "the direction where the sun rises",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "elbow",
+      "definicion": "the joint in the middle of the arm",
+      "tematica": "The body and the face",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Emma",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "engine",
+      "definicion": "a machine that produces power",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "engineer",
+      "definicion": "a person who designs or builds machines",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "entrance",
+      "definicion": "a way into a place",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "envelope",
+      "definicion": "a paper cover for a letter",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "environment",
+      "definicion": "the natural world around us",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "exit",
+      "definicion": "a way out of a place",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "factory",
+      "definicion": "a building where goods are made",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "fall",
+      "definicion": "the season between summer and winter",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "February",
+      "definicion": "the second month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "festival",
+      "definicion": "a special event or celebration",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "file",
+      "definicion": "a collection of data stored on a computer",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "finger",
+      "definicion": "one of the five parts at the end of your hand",
+      "tematica": "The body and the face",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "fire",
+      "definicion": "the heat and light produced by burning",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "fire engine",
+      "definicion": "a vehicle used by firefighters",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "fire fighter",
+      "definicion": "a person who puts out fires",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "fire station",
+      "definicion": "a building where fire engines are kept",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "flag",
+      "definicion": "a piece of cloth with a special design",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "flashlight",
+      "definicion": "a portable electric light",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "flour",
+      "definicion": "powder made from grain used for cooking",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "fog",
+      "definicion": "thick cloud near the ground",
+      "tematica": "Weather",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "fork",
+      "definicion": "a tool with prongs for eating",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Frank",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "fridge",
+      "definicion": "a device for keeping food cold",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "front",
+      "definicion": "the part that faces forward",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "fur",
+      "definicion": "the soft hair on animals",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "future",
+      "definicion": "the time that is to come",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "gate",
+      "definicion": "a movable barrier in a wall or fence",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "geography",
+      "definicion": "the study of the earth's surface",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "George",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "glove",
+      "definicion": "a covering for the hand",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "glue",
+      "definicion": "a sticky substance for joining things",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "gold",
+      "definicion": "a valuable yellow metal",
+      "tematica": "Materials",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "golf",
+      "definicion": "a game played with clubs and a small ball",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "group",
+      "definicion": "a number of people or things together",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "guess",
+      "definicion": "an attempt to give an answer without being sure",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "gym",
+      "definicion": "a room or building for physical exercise",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "half",
+      "definicion": "one of two equal parts",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Harry",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Helen",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "hill",
+      "definicion": "a raised area of land",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "history",
+      "definicion": "the study of past events",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "hole",
+      "definicion": "an empty space in something solid",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Holly",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "honey",
+      "definicion": "a sweet sticky food made by bees",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "hotel",
+      "definicion": "a place where people pay to stay",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "hour",
+      "definicion": "a period of sixty minutes",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "husband",
+      "definicion": "a married man",
+      "tematica": "Family & friends",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "information",
+      "definicion": "facts about something",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "insect",
+      "definicion": "a small animal with six legs",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "instrument",
+      "definicion": "a tool or device used for music or science",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "invitation",
+      "definicion": "a request to attend an event",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "jam",
+      "definicion": "a sweet food made from fruit",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "January",
+      "definicion": "the first month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "job",
+      "definicion": "work that someone does to earn money",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "journalist",
+      "definicion": "a person who writes for newspapers",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "journey",
+      "definicion": "traveling from one place to another",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "July",
+      "definicion": "the seventh month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "June",
+      "definicion": "the sixth month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Katy",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "key",
+      "definicion": "a metal object for opening locks",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "kilometre",
+      "definicion": "a unit of distance equal to 1000 meters",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "king",
+      "definicion": "a male ruler of a country",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "knee",
+      "definicion": "the joint in the middle of the leg",
+      "tematica": "The body and the face",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "knife",
+      "definicion": "a tool with a sharp blade for cutting",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "language",
+      "definicion": "a system of communication used by a country",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "left",
+      "definicion": "the opposite side to right",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "letter",
+      "definicion": "a written message sent by mail",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "lift",
+      "definicion": "a ride in someone's vehicle",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "light",
+      "definicion": "brightness that lets you see",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "London",
+      "definicion": "the capital city of England",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "magazine",
+      "definicion": "a publication with articles and pictures",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "manager",
+      "definicion": "a person in charge of a business",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "March",
+      "definicion": "the third month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "match",
+      "definicion": "a sports competition",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "maths",
+      "definicion": "the study of numbers and shapes",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "May",
+      "definicion": "the fifth month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "meal",
+      "definicion": "food eaten at a particular time",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "mechanic",
+      "definicion": "a person who repairs machines",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "medicine",
+      "definicion": "a substance used to treat illness",
+      "tematica": "Health",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "meeting",
+      "definicion": "when people come together for a purpose",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "member",
+      "definicion": "a person belonging to a group",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "metal",
+      "definicion": "a hard shiny material like iron or gold",
+      "tematica": "Materials",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Michael",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "midday",
+      "definicion": "the middle of the day, twelve o'clock",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "middle",
+      "definicion": "the center part",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "midnight",
+      "definicion": "twelve o'clock at night",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "million",
+      "definicion": "the number 1,000,000",
+      "tematica": "Numbers",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "minute",
+      "definicion": "a period of sixty seconds",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "month",
+      "definicion": "one of the twelve parts of a year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "motorway",
+      "definicion": "a wide road for fast traffic",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "museum",
+      "definicion": "a building where important objects are displayed",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "necklace",
+      "definicion": "jewelry worn around the neck",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "nest",
+      "definicion": "a structure birds make for laying eggs",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "news",
+      "definicion": "information about recent events",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "newspaper",
+      "definicion": "printed sheets with news and articles",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "north",
+      "definicion": "the direction opposite to south",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "November",
+      "definicion": "the eleventh month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "ocean",
+      "definicion": "a very large area of sea",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "October",
+      "definicion": "the tenth month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "octopus",
+      "definicion": "a sea creature with eight arms",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "office",
+      "definicion": "a room where people work",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Oliver",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "olives",
+      "definicion": "small oval fruit usually green or black",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "oven",
+      "definicion": "a box-shaped device for cooking",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "pajamas",
+      "definicion": "clothes worn in bed",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "passenger",
+      "definicion": "a person traveling in a vehicle",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "past",
+      "definicion": "the time before now",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "path",
+      "definicion": "a way for walking",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "pepper",
+      "definicion": "a spice used to flavor food",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "photographer",
+      "definicion": "a person who takes photographs",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "piece",
+      "definicion": "a part of something",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "pilot",
+      "definicion": "a person who flies an aircraft",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "pizza",
+      "definicion": "an Italian food with a bread base and toppings",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "planet",
+      "definicion": "a large object in space that orbits a star",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "plastic",
+      "definicion": "a material that can be molded into shapes",
+      "tematica": "Materials",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "platform",
+      "definicion": "a raised area beside a railway track",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "pocket",
+      "definicion": "a small bag sewn into clothes",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "police officer",
+      "definicion": "a member of the police force",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "police station",
+      "definicion": "the office of a local police force",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "pond",
+      "definicion": "a small area of water",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "pop music",
+      "definicion": "modern popular music",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "post office",
+      "definicion": "a place where mail is sent",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "postcard",
+      "definicion": "a card for sending messages by mail",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "prize",
+      "definicion": "something won in a competition",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "problem",
+      "definicion": "a difficult situation",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "programme",
+      "definicion": "a television or radio show",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "project",
+      "definicion": "a piece of planned work",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "puzzle",
+      "definicion": "a game or problem that tests ingenuity",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "pyjamas",
+      "definicion": "clothes worn in bed",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "pyramid",
+      "definicion": "a structure with a square base and triangular sides",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "quarter",
+      "definicion": "one of four equal parts",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "queen",
+      "definicion": "a female ruler of a country",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "quiz",
+      "definicion": "a game or competition with questions",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "race",
+      "definicion": "a competition to see who is fastest",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "railway",
+      "definicion": "tracks for trains",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "restaurant",
+      "definicion": "a place where meals are served",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Richard",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "right",
+      "definicion": "the opposite side to left",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "ring",
+      "definicion": "jewelry worn on a finger",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Robert",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "rock music",
+      "definicion": "a type of popular music with a strong beat",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "rocket",
+      "definicion": "a vehicle for traveling in space",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "rucksack",
+      "definicion": "a bag carried on your back",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "salt",
+      "definicion": "a white substance used to flavor food",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Sarah",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "science",
+      "definicion": "the study of the natural world",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "scissors",
+      "definicion": "a tool with two blades for cutting",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "score",
+      "definicion": "the number of points in a game",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "screen",
+      "definicion": "a flat surface for showing images",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "search",
+      "definicion": "an attempt to find something",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "secret",
+      "definicion": "something kept hidden",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "September",
+      "definicion": "the ninth month of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "shampoo",
+      "definicion": "liquid for washing hair",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "shelf",
+      "definicion": "a flat board for storing things",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "silver",
+      "definicion": "a shiny gray-white metal",
+      "tematica": "Materials",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "singer",
+      "definicion": "a person who sings",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "ski",
+      "definicion": "a long narrow piece for sliding on snow",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "skyscraper",
+      "definicion": "a very tall building",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "sledge",
+      "definicion": "a vehicle for traveling over snow",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "smell",
+      "definicion": "something you sense with your nose",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "snack",
+      "definicion": "a small amount of food",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "snowball",
+      "definicion": "a ball of snow",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "snowboard",
+      "definicion": "a board for sliding on snow",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "snowboarding",
+      "definicion": "the sport of riding a snowboard",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "snowman",
+      "definicion": "a figure made of snow",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "soap",
+      "definicion": "a substance used for washing",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "Sophia",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "sound",
+      "definicion": "something you can hear",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "south",
+      "definicion": "the direction opposite to north",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "space",
+      "definicion": "the area beyond Earth's atmosphere",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "spaceship",
+      "definicion": "a vehicle for traveling in space",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "spoon",
+      "definicion": "a tool with a round part for eating",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "spot",
+      "definicion": "a small mark",
+      "tematica": "Colours",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "spring",
+      "definicion": "the season between winter and summer",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "stadium",
+      "definicion": "a building for sports events",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "stage",
+      "definicion": "a raised platform for performers",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "stamp",
+      "definicion": "a small piece of paper for posting letters",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "step",
+      "definicion": "a flat surface for placing your foot",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "stone",
+      "definicion": "a small piece of rock",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "storm",
+      "definicion": "very bad weather with wind and rain",
+      "tematica": "Weather",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "strawberry",
+      "definicion": "a soft red fruit with small seeds",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "stream",
+      "definicion": "a small river",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "stripe",
+      "definicion": "a long narrow band of color",
+      "tematica": "Colours",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "student",
+      "definicion": "a person who studies",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "subject",
+      "definicion": "a topic studied at school",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "sugar",
+      "definicion": "a sweet substance used in food",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "suitcase",
+      "definicion": "a case for carrying clothes when traveling",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "summer",
+      "definicion": "the warmest season of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "sunglasses",
+      "definicion": "dark glasses to protect eyes from the sun",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "surname",
+      "definicion": "a family name",
+      "tematica": "Family & friends",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "surprise",
+      "definicion": "an unexpected event",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "swan",
+      "definicion": "a large white water bird",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "swing",
+      "definicion": "a seat hanging on ropes or chains",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "taste",
+      "definicion": "the flavor of food",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "taxi",
+      "definicion": "a car that takes passengers for payment",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "team",
+      "definicion": "a group working together",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "telephone",
+      "definicion": "a device for speaking to someone far away",
+      "tematica": "The home",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "tent",
+      "definicion": "a shelter made of cloth",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "theatre",
+      "definicion": "a building where plays are performed",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "thousand",
+      "definicion": "the number 1,000",
+      "tematica": "Numbers",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "time",
+      "definicion": "the measurement of hours and minutes",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "timetable",
+      "definicion": "a plan showing when things happen",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "toe",
+      "definicion": "one of the five parts at the end of your foot",
+      "tematica": "The body and the face",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "torch",
+      "definicion": "a portable electric light",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "tortoise",
+      "definicion": "a slow-moving reptile with a shell",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "tour",
+      "definicion": "a journey to see places",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "traffic",
+      "definicion": "vehicles moving on roads",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "trainers",
+      "definicion": "soft shoes for sports",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "tune",
+      "definicion": "a series of musical notes",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "tyre",
+      "definicion": "a rubber cover for a wheel",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "umbrella",
+      "definicion": "a device to protect from rain",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "uniform",
+      "definicion": "special clothes worn for school or work",
+      "tematica": "Clothes",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "university",
+      "definicion": "a place of higher education",
+      "tematica": "School",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "view",
+      "definicion": "what you can see from a place",
+      "tematica": "The world around us",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "violin",
+      "definicion": "a musical instrument with strings",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "volleyball",
+      "definicion": "a game where teams hit a ball over a net",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "waiter",
+      "definicion": "a person who serves food in a restaurant",
+      "tematica": "Work",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "way",
+      "definicion": "a route or method",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "west",
+      "definicion": "the direction where the sun sets",
+      "tematica": "Places & directions",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "wheel",
+      "definicion": "a circular object that rotates",
+      "tematica": "Transport",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "wife",
+      "definicion": "a married woman",
+      "tematica": "Family & friends",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "William",
+      "definicion": "a person's name",
+      "tematica": "Names",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "win",
+      "definicion": "a victory in a competition",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "wing",
+      "definicion": "a part of a bird used for flying",
+      "tematica": "Animals",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "winner",
+      "definicion": "the person who wins",
+      "tematica": "Sports & leisure",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "winter",
+      "definicion": "the coldest season of the year",
+      "tematica": "Time",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "wish",
+      "definicion": "a hope for something",
+      "tematica": "",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "wood",
+      "definicion": "the hard material from trees",
+      "tematica": "Materials",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "wool",
+      "definicion": "soft hair from sheep",
+      "tematica": "Materials",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "x-ray",
+      "definicion": "a medical photograph of inside the body",
+      "tematica": "Health",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "yoghurt",
+      "definicion": "a thick food made from milk",
+      "tematica": "Food & drink",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    },
+    {
+      "palabra": "zero",
+      "definicion": "the number 0",
+      "tematica": "Numbers",
+      "grammatical": "Nouns",
+      "nivel": "456_primaria"
+    }
+  ]
+}
