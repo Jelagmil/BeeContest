@@ -1,5 +1,15 @@
 {
   "San Javier": [
+    { "palabra": "Eleven", "definicion": "Number 11.", "tematica": "", "nivel": "1 Primaria", "fecha": "16th_feb", "curso": "25/26" },
+    { "palabra": "Tweleve", "definicion": "Number 12.", "tematica": "", "nivel": "1 Primaria", "fecha": "16th_feb", "curso": "25/26" },
+    { "palabra": "Thirteen", "definicion": "Number 13.", "tematica": "", "nivel": "1 Primaria", "fecha": "16th_feb", "curso": "25/26" },
+    { "palabra": "Fourteen", "definicion": "Number 14.", "tematica": "", "nivel": "1 Primaria", "fecha": "16th_feb", "curso": "25/26" },
+    { "palabra": "Fifteen", "definicion": "Number 15.", "tematica": "", "nivel": "1 Primaria", "fecha": "16th_feb", "curso": "25/26" },
+    { "palabra": "Sixteen", "definicion": "Number 16.", "tematica": "", "nivel": "1 Primaria", "fecha": "16th_feb", "curso": "25/26" },
+    { "palabra": "Seventeen", "definicion": "Number 17.", "tematica": "", "nivel": "1 Primaria", "fecha": "16th_feb", "curso": "25/26" },
+    { "palabra": "Eighteen", "definicion": "Number 18.", "tematica": "", "nivel": "1 Primaria", "fecha": "16th_feb", "curso": "25/26" },
+    { "palabra": "Nineteen", "definicion": "Number 19.", "tematica": "", "nivel": "1 Primaria", "fecha": "16th_feb", "curso": "25/26" },
+    { "palabra": "Twenty", "definicion": "Number 20.", "tematica": "", "nivel": "1 Primaria", "fecha": "16th_feb", "curso": "25/26" },
     { "palabra": "Clean", "definicion": "Not dirty.", "tematica": "", "nivel": "1 Primaria", "fecha": "9th_feb", "curso": "25/26" },
     { "palabra": "Dirty", "definicion": "Not clean.", "tematica": "", "nivel": "1 Primaria", "fecha": "9th_feb", "curso": "25/26" },
     { "palabra": "Cold", "definicion": "Not hot.", "tematica": "", "nivel": "1 Primaria", "fecha": "9th_feb", "curso": "25/26" },
