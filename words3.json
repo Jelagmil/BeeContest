@@ -138,7 +138,17 @@
 { "palabra": "Straight", "definicion": "Not curly.", "tematica": "", "nivel": "1 Primaria", "fecha": "29th_sep", "curso": "25/26" },
 { "palabra": "Curly", "definicion": "With small round shapes.", "tematica": "", "nivel": "1 Primaria", "fecha": "29th_sep", "curso": "25/26" },
 { "palabra": "Short", "definicion": "Not long.", "tematica": "", "nivel": "1 Primaria", "fecha": "29th_sep", "curso": "25/26" },
-{ "palabra": "Blond", "definicion": "Light yellow hair color.", "tematica": "", "nivel": "1 Primaria", "fecha": "29th_sep", "curso": "25/26" }
+{ "palabra": "Blond", "definicion": "Light yellow hair color.", "tematica": "", "nivel": "1 Primaria", "fecha": "29th_sep", "curso": "25/26" },
+{"palabra": "Fire Station", "definicion": "A place where firefighters work and keep their fire trucks.", "tematica": "Places in town", "nivel": "1 Primaria", "fecha": "27th_feb", "curso": "25/26"}
+{"palabra": "Library", "definicion": "A quiet place where you can read and borrow books.", "tematica": "Places in town", "nivel": "1 Primaria", "fecha": "27th_feb", "curso": "25/26"}
+{"palabra": "Bakery", "definicion": "A place where people make and sell bread and cakes.", "tematica": "Places in town", "nivel": "1 Primaria", "fecha": "27th_feb", "curso": "25/26"}
+{"palabra": "Police Station", "definicion": "A place where police officers work and help people.", "tematica": "Places in town", "nivel": "1 Primaria", "fecha": "27th_feb", "curso": "25/26"}
+{"palabra": "Butchers", "definicion": "A shop where you can buy meat.", "tematica": "Places in town", "nivel": "1 Primaria", "fecha": "27th_feb", "curso": "25/26"}
+{"palabra": "Shop", "definicion": "A place where you can buy things.", "tematica": "Places in town", "nivel": "1 Primaria", "fecha": "27th_feb", "curso": "25/26"}
+{"palabra": "Vet Clinic", "definicion": "A place where a vet helps sick animals.", "tematica": "Places in town", "nivel": "1 Primaria", "fecha": "27th_feb", "curso": "25/26"}
+{"palabra": "Post Office", "definicion": "A place where you send letters and parcels.", "tematica": "Places in town", "nivel": "1 Primaria", "fecha": "27th_feb", "curso": "25/26"}
+{"palabra": "School", "definicion": "A place where children go to learn.", "tematica": "Places in town", "nivel": "1 Primaria", "fecha": "27th_feb", "curso": "25/26"}
+{"palabra": "Restaurant", "definicion": "A place where people go to eat food.", "tematica": "Places in town", "nivel": "1 Primaria", "fecha": "27th_feb", "curso": "25/26"}
   ],
 "CEU Sanchinarro": [
    {"palabra": "Sweep", "definicion": "To clean the floor using a broom.", "tematica": "Housework", "nivel": "3 Primaria", "fecha": "16th_feb", "curso": "25/26"},
